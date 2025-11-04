@@ -2,9 +2,6 @@
 
 A full-stack food recipe web application where users can discover, save, share, and rate recipes with a vibrant community of food lovers. Built using React.js for the frontend, Spring Boot for the backend API, and MySQL (SQL Workbench) for data storage.
 
-![Home Page](Screenshot-2025-11-04-075814.jpg)
-![Login Modal](Screenshot-2025-11-04-075855.jpg)
-![Dashboard](Screenshot-2025-11-04-080616.jpg)
 
 ## Features
 
@@ -78,6 +75,7 @@ Add screenshots here showing main features and UI:
 MIT
 
 ---
+
 
 
 
