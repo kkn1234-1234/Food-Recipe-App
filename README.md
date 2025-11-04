@@ -31,9 +31,6 @@ User details such as email, fullname, and password are stored securely. Example 
 3. **Recipe Details:** Click any food item to see prep steps and watch video guides.
 4. **Rate & Review:** Users can leave ratings/comments after cooking.
 
-![Cuisine Examples](Screenshot-2025-11-04-075927.jpg)
-![Recipe Details Example](Screenshot-2025-11-04-080705.jpg)
-![Database Example](Screenshot-2025-11-04-081224.jpg)
 
 ## Getting Started
 
@@ -75,6 +72,7 @@ Add screenshots here showing main features and UI:
 MIT
 
 ---
+
 
 
 
