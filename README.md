@@ -67,11 +67,18 @@ Add screenshots here showing main features and UI:
 <img width="1919" height="993" alt="Screenshot 2025-11-04 081224" src="https://github.com/user-attachments/assets/8aaf99a8-2158-4a6f-81c7-48e6e409a912" />
 <img width="1919" height="750" alt="Screenshot 2025-11-04 081603" src="https://github.com/user-attachments/assets/dd54fb3f-869f-49e5-860f-45dc7a1e8250" />
 
-## License
+## ✍️ Author
+
+- MARLA KARTHIKEYAN
+
+---
+
+## 💼 License
 
 MIT
 
 ---
+
 
 
 
